@@ -66,7 +66,11 @@ RegisterNumber:
 Logic symbol & Truthtable
 RTL realization
 Output:
+![output](index.png)
 RTL
+![output](ag.png)
+![output](ag1.png)
+![output](ag2.png)
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
